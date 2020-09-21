@@ -5,7 +5,7 @@ end
 
 def actor
   actor = { name: "Dakota Johnson"}
-  actor[]
+  actor["name"]
 end
 
 def monopoly
