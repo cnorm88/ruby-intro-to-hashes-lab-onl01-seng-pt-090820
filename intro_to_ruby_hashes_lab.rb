@@ -4,8 +4,8 @@ def new_hash
 end
 
 def actor
-  actor = { "name" => "Dakota Johnson"}
-  actor["name"]
+  famous = { "name" => "Dakota Johnson"}
+  famous["name"]
 end
 
 def monopoly
